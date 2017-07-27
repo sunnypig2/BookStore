@@ -4,6 +4,7 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java/com.liyidan.bookstore.entities"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java/com.liyidan.bookstore.mapper"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="BookStore"/>
         <property name="java-output-path" value="/BookStore/target/classes"/>
     </wb-module>

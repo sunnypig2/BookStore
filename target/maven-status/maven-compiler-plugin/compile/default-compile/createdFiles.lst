@@ -1,0 +1,6 @@
+com\liyidan\bookstore\action\BaseController.class
+com\liyidan\bookstore\action\CtxUtil.class
+com\liyidan\bookstore\action\BookController.class
+com\liyidan\bookstore\mapper\BookDAO.class
+com\liyidan\bookstore\entities\Book.class
+com\liyidan\bookstore\service\BookService.class
